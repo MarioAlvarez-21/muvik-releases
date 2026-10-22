@@ -2,7 +2,7 @@
 
 Tu música, descargada y sin anuncios. Muvik es un reproductor de música para Android: pega o comparte un enlace y la canción se queda en tu móvil, con su carátula y su letra.
 
-Este repositorio solo guarda los APK de cada versión. La web con todo lo que hace la app está en **https://muvik.vercel.app**.
+Este repositorio solo guarda los APK de cada versión. La web con todo lo que hace la app está en **https://muvik-app.vercel.app**.
 
 ## Descargar
 
